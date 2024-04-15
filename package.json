@@ -1,0 +1,22 @@
+{
+  "name": "hooriya_furqan13-cli-number-guessingg",
+  "version": "2.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cli-number-guessingg": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "hooriya_furqan13-cli-number-guessingg": "^2.0.1"
+  }
+}
